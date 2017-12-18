@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Test Elm application",
-    "repository": "https://github.com/relabs_oss/underhand.git",
+    "repository": "https://github.com/relabsoss/underhand.git",
     "license": "commercial",
     "source-directories": [
         "test/elm/"
